@@ -1,0 +1,15 @@
+Enqode was created by Christian Cantrell:
+
+http://www.livingdigitally.net/
+
+It is distributed under a BSD license:
+
+http://www.opensource.org/licenses/bsd-license.php
+
+Enqode uses a QR code generator on my own server.
+You can use it, or you can use your own generator.
+Just change the URL in the code to point to the service of your choice.
+
+On my server, I'm using the "PHP QR Code" project which is located here:
+
+http://phpqrcode.sourceforge.net/
